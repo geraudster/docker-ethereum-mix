@@ -1,5 +1,7 @@
 # Mix IDE Docker image
 
+Mix is the Ethereum Dapp Development Tool (https://github.com/ethereum/mix)
+
 ## Instructions
 
 Usage:
